@@ -19,5 +19,5 @@ Bootstrap
 
 Screenshots:
 ![alt text](image.png) upload page
-![alt text](image-1.png) report page
+![alt text](imagec-1.png) report page
 ![alt text](image-2.png) charts
